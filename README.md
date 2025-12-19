@@ -86,5 +86,6 @@ Step 7: Finalize and Export
 7.3 Prepare a brief presentation if required (optional)
 
 # Output:
+[text](<Scan document2025-12-19 21-50-31_compressed.pdf>)
 
 # Result:
